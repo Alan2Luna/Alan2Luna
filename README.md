@@ -1,7 +1,12 @@
-Alan Luna
-
-### Hi there 👋
-🌱 I’m currently learning React.js
+<h2> Hi, I'm Alan Luna!</h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+```javascript
+const Alan = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, Php],
+  tools: [React, Redux, Sass, Postman, Webpack, Bootstrap, Node],
+}
+```
 <!--
 **Alan2Luna/Alan2Luna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
